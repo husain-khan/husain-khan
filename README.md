@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Smart Guard Analytics](https://github.com/husain-khan/SmartGuard-hardware.git)
 
-- 👨‍💻 All of my projects are available at [https://66a7a9691dc65f19c49e25a8--husain-khan15a.netlify.app/](https://66a7a9691dc65f19c49e25a8--husain-khan15a.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://local-to--s3.s3.us-east-1.amazonaws.com/Husain+Portfolio/index.html]([https://66a7a9691dc65f19c49e25a8--husain-khan15a.netlify.app/](https://local-to--s3.s3.us-east-1.amazonaws.com/Husain+Portfolio/index.html))
 
 - 💬 Ask me about **REACT,AWS Cloud Services,ARDUINO**
 
